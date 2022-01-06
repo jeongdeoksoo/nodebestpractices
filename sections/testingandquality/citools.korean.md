@@ -42,10 +42,10 @@ jobs:
 
 ### Circle CI - 사실상 설치가 없다시피 한 cloud CI
 
-![alt text](https://github.com/i0natan/nodebestpractices/blob/master/assets/images/circleci.png "API error handling")
+![alt text](../../assets/images/circleci.png "API error handling")
 
 ### Jenkins - 예리하고 광범위하며, 고성능을 가진 CI
 
-![alt text](https://github.com/i0natan/nodebestpractices/blob/master/assets/images/jenkins_dashboard.png "API error handling")
+![alt text](../../assets/images/jenkins_dashboard.png "API error handling")
 
 <br/><br/>

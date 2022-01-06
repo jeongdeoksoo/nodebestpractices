@@ -14,7 +14,7 @@
 
 4. 일부 고급 config 케이스에서는 커맨드라인(vargs)을 통해 설정 값을 주입하도록 요구하는 경우도 있습니다. 혹은 여러 서버에서 동일한 설정 데이터를 사용할 수 있게 Redis와 같은 중앙 집중식 캐시를 통해 설정 정보를 동기화해야하는 경우도 있습니다.
 
-일부 config 라이브러리는 이러한 기능의 대부분을 무료로 제공합니다. [rc](https://www.npmjs.com/package/rc), [nconf](https://www.npmjs.com/package/nconf), [config](https://www.npmjs.com/package/config), [convict](https://www.npmjs.com/package/convict) 와 같은 npm 라이브러리를 살펴보세요. 
+Some configuration libraries can provide most of these features for free, have a look at npm libraries like [rc](https://www.npmjs.com/package/rc), [nconf](https://www.npmjs.com/package/nconf), [config](https://www.npmjs.com/package/config), and [convict](https://www.npmjs.com/package/convict) which tick many of these requirements.
 
 <br/><br/>
 
